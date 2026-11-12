@@ -4,11 +4,6 @@ Software developer with 14 years in Java, Spring Boot, REST APIs and AWS,
 most recently on a regulated payments and settlement platform.
 Now building optimization and data tools for offshore operations in Python.
 
-🚢 **Featured:** [Offshore Vessel Scheduler](https://offshore-vessel-scheduler.streamlit.app) –
-OR-Tools constraint programming schedules offshore jobs around weather limits (23 days vs 27 with a greedy baseline).
-
-📍 St. John's, NL · [LinkedIn](https://www.linkedin.com/in/sheenamary/)
-
 - 🔭 I’m currently working on an [Offshore Vessel Scheduler](https://offshore-vessel-scheduler.streamlit.app) – OR-Tools constraint programming that schedules offshore jobs around weather limits (23 days vs 27 with a greedy baseline)
 - 🌱 I’m currently learning thon for data science, optimization and reinforcement learning
 - 👯 I’m looking to collaborate on on clean energy, offshore and data/AI projects
